@@ -1,7 +1,7 @@
 class UniversalCtags < Formula
   desc "Maintained ctags implementation"
-  homepage "https://github.com/jlconlin/ctags"
-  head "https://github.com/jlconlin/ctags.git"
+  homepage "https://github.com/jlconlin/universal-ctags"
+  head "https://github.com/jlconlin/universal-ctags.git"
   option "without-xml", "Compile without libxml2"
   depends_on "autoconf" => :build
   depends_on "automake" => :build
