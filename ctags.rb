@@ -1,4 +1,4 @@
-class UniversalCtags < Formula
+class Ctags < Formula
   desc "Maintained ctags implementation"
   homepage "https://github.com/jlconlin/ctags"
   head "https://github.com/jlconlin/ctags.git"
